@@ -1,0 +1,16 @@
+{
+	"name": "<name>",
+	"modURL": "<url>",
+	"welMsg": "<message>",
+	"ambient": "<#hex>",
+	"light": "<#hex>",
+	"sky": "<#hex>",
+	"fog": "<#hex>",
+	"fogD": 1, // int
+	"dthY": 1, // int
+	"oldAO": true, // bool
+	"xyz": [], // array of the scales of all the objects
+	"objects": [], // refer to object folder
+	"config": {}, // refer to config folder
+	"spawns": [] // refer to spawns.json
+}

@@ -1,0 +1,26 @@
+// id's for game modes
+
+0: Free For All
+1: Team Deathmatch
+2: Hardpoint
+3: Capture the Flag
+4: Parkour
+5: Hide & Seek
+6: Infected
+7: Race
+8: Last Man Standing
+9: Simon Says
+10: Gun Game
+11: Prop Hunt
+12: Boss Hunt
+15: Stalker
+16: King of the Hill
+17: One in the Chamber
+18: Trade
+19: Kill Confirmed
+20: Defuse
+21: Sharp Shooter
+22: Traitor
+23: Raid
+24: Blitz
+25: Domination

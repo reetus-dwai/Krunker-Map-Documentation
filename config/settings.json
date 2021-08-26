@@ -1,0 +1,103 @@
+// Server Preset
+
+{
+	// Server size
+	"maxPlayers": 10,
+	"minPlayers": 13,
+
+	// Timers
+	"gameTime": 38,
+	"warmupTime": 2.8,
+	"gamRounds": 8,
+	"intermTmr": 84,
+	"forceSpawn": 12,
+
+	// Health & Lives
+	"lives": 5,
+
+	// Score & Rewards
+	"scoreLimit": 7700,
+	"keepTScore": 1,
+
+	// Mode Settings
+	"objtvTime": 9.3,
+	"forceC": 0,
+	"logTim": 0,
+
+	// World Physics
+	"gravMlt": 0.354,
+	"fallDmg": 5.19,
+	"fallDmgThr": 6.49,
+
+	// Jumping
+	"jumpMlt": 2.551,
+
+	// Movement
+	"fixMov": 1,
+	"slidTime": 4.5,
+	"slidSpd": 0.3,
+
+	// Gameplay Logic
+	"impulseMlt": 2.4,
+
+	// Jumping
+	"wallJP": 2,
+
+	// Movement
+	"strafeSpd": 1.8,
+	"canSlide": 0,
+	"airStrf": 1,
+
+	// Jumping
+	"autoJump": 1,
+
+	// World Physics
+	"bDrop": 1,
+
+	// Health & Lives
+	"healthMlt": 1.8,
+
+	// Collisons
+	"hitBoxPad": -0.7,
+
+	// Gameplay Logic
+	"fiRat": 1.6,
+	"reSpd": 1.8,
+
+	// Health & Lives
+	"hpRegen": 0,
+
+	// Score & Rewards
+	"killRewards": 0,
+
+	// Gameplay Logic
+	"headshotOnly": 1,
+	"noSecondary": 1,
+
+	// Other
+	"noStreaks": 1,
+	"disableB": 1,
+
+	// Gameplay Logic
+	"throwMel": 0,
+	"chrgWeps": 0,
+
+	// Teams
+	"selTeam": 1,
+	"nameTeam1": "a",
+	"nameTeam2": "b",
+	"nameTeam3": "c",
+	"nameTeam4": "d",
+	"nameTeam5": "e",
+	"t1Dmg": 1.6,
+	"t2Dmg": 1.2,
+	"t3Dmg": 0.7,
+	"t4Dmg": 0.3,
+	"t5Dmg": 1.6,
+
+	// Other
+	"allowSpect": 0,
+	"thirdPerson": 1,
+	"nameTags": 1, // hide nameTags
+	"kCams": 0
+}

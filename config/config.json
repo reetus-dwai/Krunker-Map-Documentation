@@ -1,0 +1,7 @@
+{
+	"modes": [], // array of all included modes
+	"classes": [], // array of all included classes
+	"settings": {}, // refer to settings.json
+	"weps": {},
+	"cls": {}
+}

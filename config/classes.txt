@@ -1,0 +1,21 @@
+// id's for classes
+
+
+// don't include if all classes are selected
+
+
+0: TriggerMan
+1: Hunter
+2: Run N Gun
+3: Spray N Pray
+4: Vince
+5: Detective
+6: Marksman
+7: Rocketeer
+8: Agent
+9: Runner
+10: Deagler
+11: Bowman
+12: Commando
+13: Trooper
+14: Survivor
