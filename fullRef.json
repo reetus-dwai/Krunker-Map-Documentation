@@ -1,0 +1,141 @@
+{
+	"name": "<name>",
+	"modURL": "<url>",
+	"welMsg": "<message>",
+	"ambient": "<#hex>",
+	"light": "<#hex>",
+	"sky": "<#hex>",
+	"fog": "<#hex>",
+	"fogD": 1, // int
+	"dthY": 1, // int
+	"oldAO": true, // bool
+	"xyz": [], // array of the scales of all the objects
+	"objects": [], // refer to object folder
+	"config": {
+		"modes": [
+			0, // Free For All
+			1, // Team Deathmatch
+			2, // Hardpoint
+			3, // Capture the Flag
+			4, // Parkour
+			5, // Hide & Seek
+			6, // Infected
+			7, // Race
+			8, // Last Man Standing
+			9, // Simon Says
+			10, // Gun Game
+			11, // Prop Hunt
+			12, // Boss Hunt
+			15, // Stalker
+			16, // King of the Hill
+			17, // One in the Chamber
+			18, // Trade
+			19, // Kill Confirmed
+			20, // Defuse
+			21, // Sharp Shooter
+			22, // Traitor
+			23, // Raid
+			24, // Blitz
+			25 // Domination
+		],
+		"classes": [
+			0, // TriggerMan
+			1, // Hunter
+			2, // Run N Gun
+			3, // Spray N Pray
+			4, // Vince
+			5, // Detective
+			6, // Marksman
+			7, // Rocketeer
+			8, // Agent
+			9, // Runner
+			10, // Deagler
+			11, // Bowman
+			12, // Commando
+			13, // Trooper
+			14 // Survivor
+		],
+		"settings": {
+			// Server size
+			"maxPlayers": 10,
+			"minPlayers": 13,
+
+			// Timers
+			"gameTime": 38,
+			"warmupTime": 2.8,
+			"gamRounds": 8,
+			"intermTmr": 84,
+			"forceSpawn": 12,
+
+			// Health & Lives
+			"lives": 5,
+			"healthMlt": 1.8,
+			"hpRegen": 0,
+
+			// Score & Rewards
+			"scoreLimit": 7700,
+			"keepTScore": 1,
+			"killRewards": 0,
+
+			// Mode Settings
+			"objtvTime": 9.3,
+			"forceC": 0,
+			"logTim": 0,
+
+			// World Physics
+			"gravMlt": 0.354,
+			"fallDmg": 5.19,
+			"fallDmgThr": 6.49,
+			"bDrop": 1,
+
+			// Jumping
+			"jumpMlt": 2.551,
+			"wallJP": 2,
+			"autoJump": 1,
+
+			// Movement
+			"fixMov": 1,
+			"slidTime": 4.5,
+			"slidSpd": 0.3,
+			"strafeSpd": 1.8,
+			"canSlide": 0,
+			"airStrf": 1,
+
+			// Gameplay Logic
+			"impulseMlt": 2.4,
+			"fiRat": 1.6,
+			"reSpd": 1.8,
+			"headshotOnly": 1,
+			"noSecondary": 1,
+			"throwMel": 0,
+			"chrgWeps": 0,
+
+			// Collisons
+			"hitBoxPad": -0.7,
+
+			// Other
+			"noStreaks": 1,
+			"disableB": 1,
+			"allowSpect": 0,
+			"thirdPerson": 1,
+			"nameTags": 1, // hide nameTags
+			"kCams": 0,
+
+			// Teams
+			"selTeam": 1,
+			"nameTeam1": "a",
+			"nameTeam2": "b",
+			"nameTeam3": "c",
+			"nameTeam4": "d",
+			"nameTeam5": "e",
+			"t1Dmg": 1.6,
+			"t2Dmg": 1.2,
+			"t3Dmg": 0.7,
+			"t4Dmg": 0.3,
+			"t5Dmg": 1.6
+		},
+		"weps": {},
+		"cls": {}
+	},
+	"spawns": [] // refer to spawns.json
+}
